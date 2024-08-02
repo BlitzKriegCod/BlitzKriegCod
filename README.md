@@ -1,20 +1,15 @@
 # BlitzKriegCod
 
 ## Languages and Tools:
-- ### Tools:
-<p align="start">
+
+<details>
+  <summary>Tools</summary>
+  <ul>
+    <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,vscode" />
   </a>
 </p>
-<details>
-  <summary>Tools</summary>
-  <ul>
-    <li><p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode" />
-  </a>
-</p></li>
   </ul>
 </details>
 
