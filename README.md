@@ -3,7 +3,7 @@
 ## Languages and Tools:
 
 <details>
-  <summary>Tools</summary>
+###  <summary>Tools</summary>
   <ul>
     <p align="start">
   <a href="https://skillicons.dev">
