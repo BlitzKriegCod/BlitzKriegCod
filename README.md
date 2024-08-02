@@ -59,8 +59,4 @@
   <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp Light Mode" width="50" height="50" />
 </a>
 
-<a href="https://wa.me/51320264">
-  <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp Dark Mode" width="50" height="50" style="filter: invert(100%);" />
-</a>
-
 
