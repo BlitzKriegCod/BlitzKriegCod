@@ -112,13 +112,13 @@
 </p>
 
 
-<details><summary><h1>
-:zap: GitHub Stats</h1>
+<details><summary><h2>
+:zap: GitHub Stats</h2>
 </summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
+<hr>
 
 ### 📫Connect with me:
  
