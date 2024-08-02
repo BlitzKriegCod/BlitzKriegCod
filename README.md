@@ -27,7 +27,7 @@
   </ul>
 </details>
 
-## Frameworks:
+<h2> Frameworks:</h2>
 
   <p align="start">
   <a href="https://skillicons.dev">
