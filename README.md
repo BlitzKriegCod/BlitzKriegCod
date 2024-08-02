@@ -31,7 +31,7 @@
 
   <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= angular,bootstrap,tailwind,django,express,nest" />
+    <img src="https://skillicons.dev/icons?i= angular,django,express,nest,bootstrap,tailwind" />
   </a>
 </p>
 
