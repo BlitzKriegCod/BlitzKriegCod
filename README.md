@@ -1,10 +1,12 @@
 # BlitzKriegCod
-#### Hello everyone !!!
+ 
+
+#### 🚀Hello everyone !!!👋
 #### My name is Yulesky Gonzales and I study at the University of Informatic Sciences in Havana, Cuba.
 #### I am in love with certain branches of my career such as Full Stack Web Development (Web Development), Game Development, and AI.
-<hr>
 
-## Languages and Tools:
+
+##  🛠️ Languages and Tools:
 
 <details>
  <summary>Tools</summary>
@@ -55,8 +57,8 @@
 </details>
 
 ### Connect with me:
-<a href="https://wa.me/51320264">
-  <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp Light Mode" width="50" height="50" />
-</a>
+
+[![WhatsApp]([./img/whatsapp-light.svg](https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png))](https://wa.me/51320264#gh-light-mode-only)
+[![WhatsApp](https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png)](https://wa.me/51320264#gh-dark-mode-only)
 
 
