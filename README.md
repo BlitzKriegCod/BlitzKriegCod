@@ -5,7 +5,7 @@
 <details>
  <summary>Tools</summary>
   <ul>
-    <hr style="color:yellow">
+    <hr>
     <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
@@ -17,7 +17,9 @@
 <details>
   <summary>Languages</summary>
   <ul>
-    <p align="start">
+   
+  <hr>
+  <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,nodejs,ts,py,cs,cpp,css,html,js,java" />
   </a>
