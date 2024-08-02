@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,python,django,git,docker,c,cpp,vim" />
   </a>
