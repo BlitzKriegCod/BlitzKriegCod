@@ -18,9 +18,7 @@
   <ul>
     <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=
-bash,
-nodejs,ts,py, cs,cpp,css,html,js,java" />
+    <img src="https://skillicons.dev/icons?i=bash,nodejs,ts,py,cs,cpp,css,html,js,java" />
   </a>
 </p>
   </ul>
