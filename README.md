@@ -7,13 +7,34 @@
   <ul>
     <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,mongodb,mysql,postman,sqlite,stackoverflow,anaconda,blender,figma,github,godot,ai,ps" />
   </a>
 </p>
   </ul>
 </details>
 
- 
+<details>
+  <summary>Languages</summary>
+  <ul>
+    <p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=
+bash,
+nodejs,ts,py, cs,cpp,css,html,js,java" />
+  </a>
+</p>
+  </ul>
+</details>
+
+## Frameworks:
+
+    <p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i= angular,bootstrap,tailwind,django,express,nest" />
+  </a>
+</p>
+
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
