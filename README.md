@@ -1,4 +1,7 @@
 # BlitzKriegCod
+Hello everyone!!!
+My name is Yulesky Gonzales and I study at the University of Informatic Sciences in Havana, Cuba.
+<hr>
 
 ## Languages and Tools:
 
