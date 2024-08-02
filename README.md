@@ -5,7 +5,7 @@
 <details>
  <summary>Tools</summary>
   <ul>
-    <hr style="width:300px">
+    <hr style="color:yellow">
     <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
