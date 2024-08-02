@@ -56,11 +56,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![WhatsApp]([./img/whatsapp-light.svg](https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png))](https://wa.me/51320264#gh-light-mode-only)
+[![WhatsApp](https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png)](https://wa.me/51320264#gh-dark-mode-only)
+
+
