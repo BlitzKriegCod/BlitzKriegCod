@@ -34,7 +34,13 @@
     <img src="https://skillicons.dev/icons?i=angular,django,express,nest,bootstrap,tailwind" />
   </a>
 </p>
+<h2> I want to learn:</h2>
 
+  <p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
+  </a>
+</p>
 
 ### Connect with me:
 
