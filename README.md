@@ -29,7 +29,7 @@
 
 ## Frameworks:
 
-    <p align="start">
+  <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i= angular,bootstrap,tailwind,django,express,nest" />
   </a>
