@@ -7,7 +7,7 @@
   <ul>
     <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,mongodb,mysql,postman,sqlite,stackoverflow,anaconda,blender,figma,github,godot,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
   </a>
 </p>
   </ul>
