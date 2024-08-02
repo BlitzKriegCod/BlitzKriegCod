@@ -1,10 +1,10 @@
 # BlitzKriegCod
 
-### Languages and Tools:
-
+## Languages and Tools:
+- ### Tools:
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,python,django,git,docker,c,cpp,vim" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscode" />
   </a>
 </p>
 
