@@ -28,7 +28,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 <hr>
   <ul>
     <li>
-      <strong>Operating Systems</strong>
+      <strong>Operating Systems </strong>
       <p align="start">
         <a href="https://skillicons.dev" style="text-decoration: none;">
           <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
@@ -72,6 +72,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 <details>
   <summary>💻 Languages</summary>
+	<hr>
   <ul>
     <p align="start">
       <a href="https://skillicons.dev" style="text-decoration: none;">
