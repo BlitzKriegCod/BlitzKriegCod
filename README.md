@@ -21,6 +21,7 @@
 
 As a dedicated student, I am constantly exploring new technologies and frameworks to enhance my skills. My goal is to create innovative solutions that positively impact people's lives. I am excited to connect with like-minded individuals and collaborate on exciting projects!
 <br>
+
 ## 🛠️ Languages and Tools
 
 <details>
@@ -72,7 +73,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 <details>
   <summary>💻 Languages</summary>
-	<hr>
+<hr>
   <ul>
     <p align="start">
       <a href="https://skillicons.dev" style="text-decoration: none;">
@@ -82,7 +83,9 @@ As a dedicated student, I am constantly exploring new technologies and framework
   </ul>
 </details>
 <br>
+
 ## 🖥️ Frameworks I Use:
+
 <hr>
 <p align="start">
   <a href="https://skillicons.dev" style="text-decoration: none;">
@@ -97,7 +100,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
     <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
   </a>
 </p>
-
+<br>
 ## 🚀 Projects
 
 Here are some of the projects I have worked on:
@@ -107,7 +110,7 @@ Here are some of the projects I have worked on:
    - **Technologies Used**: Django, Bootstrap
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
-
+<br>
 ## :zap: GitHub Stats
 
 <p align="center">
@@ -126,7 +129,7 @@ Feel free to explore these projects and provide feedback or suggestions for impr
     <img src="https://img.shields.io/badge/Repos-10-brightgreen" alt="Repositories" />
   </a>
 </p>
-
+<br>
 ## 📫 Connect with Me
 
 <p align="start">
