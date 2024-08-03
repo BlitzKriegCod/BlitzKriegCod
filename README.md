@@ -67,16 +67,17 @@ Here are some of the projects I have worked on:
 1. **[Web Development Project]([https://github.com/BlitzKriegCod/MarketUci](https://marketuci.onrender.com/))**  
    - **Description**:This project is a small marketplace developed using Django and Bootstrap.
    - **Technologies Used**: Django, CSS, Bootstrap
-   - **URL**:<a href="https://marketuci.onrender.com/" target="_blank" style="text-decoration:none"> MarketUci </a>
+   - **URL**:<a href="https://marketuci.onrender.com/" target="_blank"> MarketUci </a>
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
+## :zap: GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
-  <img align="left" alt="Yulesky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlitzKriegCod&layout=compact&hide_border=true&bg_color=09131B&text_color=ffffff)
 
-</details>
+[![Followers](https://img.shields.io/github/followers/BlitzKriegCod?style=social)](https://github.com/BlitzKriegCod)
+[![Repositories](https://img.shields.io/badge/Repos-10-brightgreen)](https://github.com/BlitzKriegCod?tab=repositories)
 
 ### 📫 Connect with Me
 
