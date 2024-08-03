@@ -72,7 +72,8 @@ Here are some of the projects I have worked on:
 Feel free to explore these projects and provide feedback or suggestions for improvement.
 ## :zap: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=
+<br>true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlitzKriegCod&layout=compact&hide_border=true&bg_color=09131B&text_color=ffffff)
 
@@ -88,5 +89,5 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 <a href="https://t.me/51320264" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32" height="32" />
 </a>
-<br>
-<hr>
+
+## 
