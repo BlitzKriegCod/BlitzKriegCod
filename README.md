@@ -17,7 +17,8 @@
 ## About Me
 
 As a dedicated student, I am constantly exploring new technologies and frameworks to enhance my skills. My goal is to create innovative solutions that positively impact people's lives. I am excited to connect with like-minded individuals and collaborate on exciting projects!
-<br>
+
+
 
 ## 🛠️ Languages and Tools
 
@@ -79,7 +80,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
     </p>
   </ul>
 </details>
-<br>
+
 
 ## 🖥️ Frameworks I Use:
 
@@ -89,16 +90,13 @@ As a dedicated student, I am constantly exploring new technologies and framework
   </a>
 </p>
 
-<br>
-<br>
-
 ## 🔭 I Want to Learn:
 <p align="start">
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
   </a>
 </p>
-<br>
+
 
 ## 🚀 Projects
 
@@ -110,7 +108,7 @@ Here are some of the projects I have worked on:
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
 
-<br>
+
 
 
 ## :zap: GitHub Stats
@@ -133,7 +131,7 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 </p>
 
 
-<br>
+
 
 
 ## 📫 Connect with Me
