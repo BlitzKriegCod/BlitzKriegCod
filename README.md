@@ -22,13 +22,15 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 <details>
  <summary>🔧 Tools</summary>
+ 
   <ul>
     <hr>
-    <p align="start">
+   <il>
+      <p align="start">
       <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
       </a>
-    </p>
+    </p></il>
   </ul>
 </details>
 
