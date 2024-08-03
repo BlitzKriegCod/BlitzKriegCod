@@ -67,7 +67,7 @@ Here are some of the projects I have worked on:
 1. **[Web Development Project]([https://github.com/BlitzKriegCod/MarketUci](https://marketuci.onrender.com/))**  
    - **Description**:This project is a small marketplace developed using Django and Bootstrap.
    - **Technologies Used**: Django, CSS, Bootstrap
-   - **URL**:<a href="https://marketuci.onrender.com/" target="_blank" >MarketUci</a>
+   - **URL**:<a href="https://marketuci.onrender.com/" target="_blank" style="text-decorator:none"> MarketUci </a>
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
 
