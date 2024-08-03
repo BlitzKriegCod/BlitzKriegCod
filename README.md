@@ -2,9 +2,6 @@
 
 ## 🚀 Hello everyone !!!👋
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/rocket.png" alt="Rocket" width="48" height="48"/>
-</p>
 <p>My name is Yulesky Gonzales, and I study at the University of Informatic Sciences in Havana, Cuba. I am passionate about Full Stack Web Development, Game Development, and Artificial Intelligence.</p>
 
 ## 📚 Table of Contents
@@ -21,7 +18,7 @@
 
 As a dedicated student, I am constantly exploring new technologies and frameworks to enhance my skills. My goal is to create innovative solutions that positively impact people's lives. I am excited to connect with like-minded individuals and collaborate on exciting projects!
 <br>
-
+<br>
 ## 🛠️ Languages and Tools
 
 <details>
@@ -83,24 +80,28 @@ As a dedicated student, I am constantly exploring new technologies and framework
   </ul>
 </details>
 <br>
+<br>
 
 ## 🖥️ Frameworks I Use:
 
-<hr>
 <p align="start">
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=angular,django,express,nest,bootstrap,tailwind" />
   </a>
 </p>
+
 <br>
-## 🔭 I Want to Learn
-<hr>
+<br>
+
+## 🔭 I Want to Learn:
 <p align="start">
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
   </a>
 </p>
 <br>
+<br>
+
 ## 🚀 Projects
 
 Here are some of the projects I have worked on:
@@ -110,7 +111,10 @@ Here are some of the projects I have worked on:
    - **Technologies Used**: Django, Bootstrap
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
+
 <br>
+<br>
+
 ## :zap: GitHub Stats
 
 <p align="center">
@@ -129,7 +133,11 @@ Feel free to explore these projects and provide feedback or suggestions for impr
     <img src="https://img.shields.io/badge/Repos-10-brightgreen" alt="Repositories" />
   </a>
 </p>
+
+
 <br>
+<br>
+
 ## 📫 Connect with Me
 
 <p align="start">
