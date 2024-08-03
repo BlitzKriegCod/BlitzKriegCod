@@ -89,4 +89,4 @@ Feel free to explore these projects and provide feedback or suggestions for impr
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32" height="32" />
 </a>
 <br>
----
+<hr>
