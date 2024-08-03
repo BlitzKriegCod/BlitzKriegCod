@@ -140,3 +140,117 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 </p>
 
 ---
+## 🛠️ Languages and Tools
+
+<details>
+ <summary>🔧 Tools</summary> 
+  <ul>
+    <li>
+      <strong>Operating Systems</strong>
+      <p align="start">
+        <a href="https://skillicons.dev" style="text-decoration: none;">
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+        </a>
+        <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="32" height="32" />
+      </p>
+    </li>
+    <li>
+      <strong>Development Environments and Text Editors</strong>
+      <p align="start">
+        <a href="https://skillicons.dev" style="text-decoration: none;">
+          <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime" />
+        </a>
+        <img src="https://img.icons8.com/color/48/000000/neovim.png" alt="Neovim" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" width="32" height="32" />
+      </p>
+    </li>
+    <li>
+      <strong>Development Tools</strong>
+      <p align="start">
+        <a href="https://skillicons.dev" style="text-decoration: none;">
+          <img src="https://skillicons.dev/icons?i=anaconda,postman,git,github,stackoverflow" />
+        </a>
+        <img src="https://img.icons8.com/color/48/000000/anaconda--v1.png" alt="Anaconda" width="32" height="32" />
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32" />
+        <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="32" height="32" />
+      </p>
+    </li>
+    <li>
+      <strong>Database and Data Management</strong>
+      <p align="start">
+        <a href="https://skillicons.dev" style="text-decoration: none;">
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+        </a>
+        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" width="32" height="32" />
+      </p>
+    </li>
+    <li>
+      <strong>Design and Game Development</strong>
+      <p align="start">
+        <a href="https://skillicons.dev" style="text-decoration: none;">
+          <img src="https://skillicons.dev/icons?i=blender,godot,figma,ai,ps" />
+        </a>
+        <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/godot-engine.png" alt="Godot" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" alt="Adobe Illustrator" width="32" height="32" />
+        <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Adobe Photoshop" width="32" height="32" />
+      </p>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>💻 Languages</summary>
+  <ul>
+    <p align="start">
+      <a href="https://skillicons.dev" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=bash,nodejs,ts,py,cs,cpp,css,html,js,java" />
+      </a>
+      <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="32" height="32" />
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="32" height="32" />
+    </p>
+  </ul>
+</details>
+
+## 🖥️ Frameworks
+
+<p align="start">
+  <strong>Frameworks I Use:</strong>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=angular,django,express,nest,bootstrap,tailwind" />
+  </a>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" width="32" height="32" />
+</p>
+
+## 🔭 I Want to Learn
+
+<p align="start">
+  <strong>Technologies I Want to Explore:</strong>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
+  </a>
+  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" height="32" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-astro-is-an-open-source-static-site-generator-that-focuses-on-developer-experience-logo-color-tal-revivo.png" alt="Astro" width="32" height="32" />
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="32" height="32" />
+</p>
