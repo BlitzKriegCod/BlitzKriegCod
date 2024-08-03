@@ -18,7 +18,7 @@
 
 As a dedicated student, I am constantly exploring new technologies and frameworks to enhance my skills. My goal is to create innovative solutions that positively impact people's lives. I am excited to connect with like-minded individuals and collaborate on exciting projects!
 <br>
-<br>
+
 ## 🛠️ Languages and Tools
 
 <details>
@@ -80,7 +80,6 @@ As a dedicated student, I am constantly exploring new technologies and framework
   </ul>
 </details>
 <br>
-<br>
 
 ## 🖥️ Frameworks I Use:
 
@@ -100,7 +99,6 @@ As a dedicated student, I am constantly exploring new technologies and framework
   </a>
 </p>
 <br>
-<br>
 
 ## 🚀 Projects
 
@@ -113,7 +111,7 @@ Here are some of the projects I have worked on:
 Feel free to explore these projects and provide feedback or suggestions for improvement.
 
 <br>
-<br>
+
 
 ## :zap: GitHub Stats
 
@@ -136,7 +134,7 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 
 
 <br>
-<br>
+
 
 ## 📫 Connect with Me
 
