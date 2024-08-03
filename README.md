@@ -88,3 +88,5 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 <a href="https://t.me/51320264" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32" height="32" />
 </a>
+<br>
+---
