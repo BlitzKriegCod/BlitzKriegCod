@@ -8,23 +8,7 @@
 
 ##  🛠️ Languages and Tools:
 
-<details>
- <summary>Tools</summary>
-  <ul>
-    <hr>
-    <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
-  </a>
-</p>
-  </ul>
-</details>
 
-<details>
-  <summary>Languages</summary>
-  <ul>
-   # BlitzKriegCod
- 
 
 #### 🚀Hello everyone !!!👋
 #### My name is Yulesky Gonzales and I study at the University of Informatic Sciences in Havana, Cuba.
@@ -96,29 +80,6 @@
   </ul>
 </details>
 
-<h2> Frameworks:</h2>
-
-  <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,django,express,nest,bootstrap,tailwind" />
-  </a>
-</p>
-<h2>🔭 I want to learn:</h2>
-
-  <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
-  </a>
-</p>
-
-
-<details><summary><h2>
-:zap: GitHub Stats</h2>
-</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-<hr>
 
 ### 📫Connect with me:
  
