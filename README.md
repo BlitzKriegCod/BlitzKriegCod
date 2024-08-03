@@ -59,6 +59,6 @@
 
 ### 📫Connect with me:
  
-<a href="https://wa.me/51320264#gh-light-mode-only">
+<a href="https://wa.me/51320264">
   <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp Light Mode" width="50px" heigth='50px'/>
 </a>
