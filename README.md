@@ -86,20 +86,3 @@ You can reach out to me via:
 
 ---
 
-<style>
-  h2, h3 {
-    transition: color 0.3s ease;
-  }
-
-  h2:hover, h3:hover {
-    color: #ff652f;
-  }
-
-  p {
-    transition: transform 0.3s ease;
-  }
-
-  p:hover {
-    transform: scale(1.02);
-  }
-</style>
