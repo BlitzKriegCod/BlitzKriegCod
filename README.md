@@ -75,7 +75,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
   <ul>
     <p align="start">
       <a href="https://skillicons.dev" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=bash,nodejs,ts,py,cs,cpp,css,html,js,java" />
+        <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,ts,,nodejs,,bash,java" />
       </a>
     </p>
   </ul>
