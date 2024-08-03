@@ -64,17 +64,9 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 Here are some of the projects I have worked on:
 
-1. **[Web Development Project](https://github.com/your-username/project-name)**  
-   - **Description**: A brief description of the project.
-   - **Technologies Used**: HTML, CSS, JavaScript, React.js
-
-2. **[Game Development Project](https://github.com/your-username/project-name)**  
-   - **Description**: A brief description of the project.
-   - **Technologies Used**: C++, OpenGL, Unity
-
-3. **[AI Project](https://github.com/your-username/project-name)**  
-   - **Description**: A brief description of the project.
-   - **Technologies Used**: Python, TensorFlow, PyTorch
+1. **[Web Development Project]([https://github.com/your-username/project-name](https://marketuci.onrender.com/))**  
+   - **Description**:This project is a small marketplace developed using Django and Bootstrap.
+   - **Technologies Used**: Django, CSS, Bootstrap
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
 
