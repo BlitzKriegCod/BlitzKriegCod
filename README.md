@@ -64,7 +64,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 Here are some of the projects I have worked on:
 
-1. **[Web Development Project]([https://github.com/your-username/project-name](https://marketuci.onrender.com/))**  
+1. **[Web Development Project]([https://github.com/BlitzKriegCod/MarketUci](https://marketuci.onrender.com/))**  
    - **Description**:This project is a small marketplace developed using Django and Bootstrap.
    - **Technologies Used**: Django, CSS, Bootstrap
 
