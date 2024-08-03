@@ -2,8 +2,8 @@
  
 
 #### 🚀Hello everyone !!!👋
-#### My name is Yulesky Gonzales and I study at the University of Informatic Sciences in Havana, Cuba.
-#### I am in love with certain branches of my career such as Full Stack Web Development (Web Development), Game Development, and AI.
+ <p>My name is Yulesky Gonzales and I study at the University of Informatic Sciences in Havana, Cuba.</p>
+ <p>I am in love with certain branches of my career such as Full Stack Web Development (Web Development), Game Development, and AI.</p>
 
 
 ##  🛠️ Languages and Tools:
