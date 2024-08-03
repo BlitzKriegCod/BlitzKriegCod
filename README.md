@@ -81,10 +81,9 @@ As a dedicated student, I am constantly exploring new technologies and framework
   </ul>
 </details>
 
-## 🖥️ Frameworks
+## 🖥️ Frameworks I Use:
 
 <p align="start">
-  <strong>Frameworks I Use:</strong>
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=angular,django,express,nest,bootstrap,tailwind" />
   </a>
@@ -93,7 +92,6 @@ As a dedicated student, I am constantly exploring new technologies and framework
 ## 🔭 I Want to Learn
 
 <p align="start">
-  <strong>Technologies I Want to Explore:</strong>
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
   </a>
@@ -130,7 +128,7 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="start">
   <a href="https://wa.me/51320264" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="48" height="48" />
   </a>
