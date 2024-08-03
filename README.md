@@ -25,7 +25,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
   <ul>
     <hr>
     <p align="start">
-      <a href="https://skillicons.dev">
+      <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
       </a>
     </p>
@@ -37,7 +37,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
   <ul>
     <hr>
     <p align="start">
-      <a href="https://skillicons.dev">
+      <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=bash,nodejs,ts,py,cs,cpp,css,html,js,java" />
       </a>
     </p>
@@ -47,7 +47,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 ## 🖥️ Frameworks
 
 <p align="start">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=angular,django,express,nest,bootstrap,tailwind" />
   </a>
 </p>
@@ -55,7 +55,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 ## 🔭 I Want to Learn
 
 <p align="start">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
   </a>
 </p>
@@ -64,22 +64,28 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 Here are some of the projects I have worked on:
 
-1. **[Web Development Project]([https://github.com/BlitzKriegCod/MarketUci](https://marketuci.onrender.com/))**  
-   - **Description**:This project is a small marketplace developed using Django and Bootstrap.
-   - **Technologies Used**: Django, CSS, Bootstrap
-   - **URL**:<a href="https://marketuci.onrender.com/" target="_blank"> MarketUci </a>
+1. **[Web Development Project](https://marketuci.onrender.com/)**  
+   - **Description**: This is a small marketplace developed using Django and Bootstrap.
+   - **Technologies Used**: Django, Bootstrap
+
+2. **[Game Development Project](https://github.com/your-username/project-name)**  
+   - **Description**: A brief description of the project.
+   - **Technologies Used**: C++, OpenGL, Unity
+
+3. **[AI Project](https://github.com/your-username/project-name)**  
+   - **Description**: A brief description of the project.
+   - **Technologies Used**: Python, TensorFlow, PyTorch
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
+
 ## :zap: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=
-<br>true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlitzKriegCod&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlitzKriegCod&layout=compact&hide_border=true&bg_color=09131B&text_color=ffffff)
 
 [![Followers](https://img.shields.io/github/followers/BlitzKriegCod?style=social)](https://github.com/BlitzKriegCod)
 [![Repositories](https://img.shields.io/badge/Repos-10-brightgreen)](https://github.com/BlitzKriegCod?tab=repositories)
-
 
 ## 📫 Connect with Me
 
@@ -90,4 +96,26 @@ Feel free to explore these projects and provide feedback or suggestions for impr
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32" height="32" />
 </a>
 
-## 
+---
+
+<style>
+  h2, h3 {
+    transition: color 0.3s ease;
+  }
+
+  h2:hover, h3:hover {
+    color: #ff652f;
+  }
+
+  p {
+    transition: transform 0.3s ease;
+  }
+
+  p:hover {
+    transform: scale(1.02);
+  }
+
+  a {
+    text-decoration: none;
+  }
+</style>
