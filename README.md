@@ -79,11 +79,7 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 [![Followers](https://img.shields.io/github/followers/BlitzKriegCod?style=social)](https://github.com/BlitzKriegCod)
 [![Repositories](https://img.shields.io/badge/Repos-10-brightgreen)](https://github.com/BlitzKriegCod?tab=repositories)
 
-### 📫 Connect with Me
-
-You can reach out to me via:
-
-- [WhatsApp](https://wa.me/51320264)
-
+📫 Connect with Me
+<a href="https://wa.me/51320264" target="_blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="32" height="32" /> </a> 
 ---
 
