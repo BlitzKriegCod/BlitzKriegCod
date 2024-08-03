@@ -82,10 +82,10 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 
 ## 📫 Connect with Me
 
-<a href="https://wa.me/51320264" target="_blank">
+<a href="https://wa.me/51320264" target="_blank" style="text-decoration:none">
   <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="32" height="32" />
 </a>
-<a href="https://t.me/51320264" target="_blank">
+<a style="text-decoration:none" href="https://t.me/51320264" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32" height="32" />
 </a>
 
