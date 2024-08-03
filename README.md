@@ -24,8 +24,9 @@ As a dedicated student, I am constantly exploring new technologies and framework
  <summary>🔧 Tools</summary>
  
   <ul>
+     <hr>
    <li>
-    <hr>
+  
       <p align="start">Operating Systems
       <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
@@ -34,7 +35,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
     <li>
      
    <li>
-    <hr>
+  
       <p align="start">Development Environments and Text Editors
       <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime" />
@@ -43,7 +44,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
     <li>
 
    <li>
-    <hr>
+  
       <p align="start">Development Tools
       <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=anaconda,postman,git,github,stackoverflow" />
@@ -53,7 +54,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
      
    <li>
-    <hr>
+
       <p align="start"> Database and Data Management
       <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite stackoverflow" />
@@ -62,7 +63,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
     <li>
      
    <li>
-    <hr>
+
       <p align="start"> Design and Game Dev
       <a href="https://skillicons.dev" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=blender,godot,figma,ai,ps" />
