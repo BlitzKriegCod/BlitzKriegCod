@@ -68,13 +68,6 @@ Here are some of the projects I have worked on:
    - **Description**: This is a small marketplace developed using Django and Bootstrap.
    - **Technologies Used**: Django, Bootstrap
 
-2. **[Game Development Project](https://github.com/your-username/project-name)**  
-   - **Description**: A brief description of the project.
-   - **Technologies Used**: C++, OpenGL, Unity
-
-3. **[AI Project](https://github.com/your-username/project-name)**  
-   - **Description**: A brief description of the project.
-   - **Technologies Used**: Python, TensorFlow, PyTorch
 
 Feel free to explore these projects and provide feedback or suggestions for improvement.
 
@@ -97,25 +90,3 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 </a>
 
 ---
-
-<style>
-  h2, h3 {
-    transition: color 0.3s ease;
-  }
-
-  h2:hover, h3:hover {
-    color: #ff652f;
-  }
-
-  p {
-    transition: transform 0.3s ease;
-  }
-
-  p:hover {
-    transform: scale(1.02);
-  }
-
-  a {
-    text-decoration: none;
-  }
-</style>
