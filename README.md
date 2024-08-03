@@ -20,7 +20,7 @@
 ## About Me
 
 As a dedicated student, I am constantly exploring new technologies and frameworks to enhance my skills. My goal is to create innovative solutions that positively impact people's lives. I am excited to connect with like-minded individuals and collaborate on exciting projects!
-
+<br>
 ## 🛠️ Languages and Tools
 
 <details>
@@ -76,22 +76,22 @@ As a dedicated student, I am constantly exploring new technologies and framework
   <ul>
     <p align="start">
       <a href="https://skillicons.dev" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,ts,,nodejs,,bash,java" />
+        <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,ts,nodejs,bash,java" />
       </a>
     </p>
   </ul>
 </details>
-
+<br>
 ## 🖥️ Frameworks I Use:
-
+<hr>
 <p align="start">
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=angular,django,express,nest,bootstrap,tailwind" />
   </a>
 </p>
-
+<br>
 ## 🔭 I Want to Learn
-
+<hr>
 <p align="start">
   <a href="https://skillicons.dev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=dotnet,docker,astro,figma" />
