@@ -65,20 +65,6 @@
 
 </details>
 
-### Connect with me:
-
-<a href="https://wa.me/51320264#gh-light-mode-only">
-  <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp Light Mode" width="100"/>
-</a>
-
-  <hr>
-  <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,nodejs,ts,py,cs,cpp,css,html,js,java" />
-  </a>
-</p>
-  </ul>
-</details>
 
 
 ### 📫Connect with me:
