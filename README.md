@@ -26,18 +26,27 @@ As a dedicated student, I am constantly exploring new technologies and framework
   <ul>
    <li>
     <hr>
-      <p align="start">
+      <p align="start">Operating Systems
       <a href="https://skillicons.dev" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
       </a>
     </p>
     <li>
      
    <li>
     <hr>
-      <p align="start">
+      <p align="start">Development Environments and Text Editors
       <a href="https://skillicons.dev" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
+        <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime" />
+      </a>
+    </p>
+    <li>
+
+   <li>
+    <hr>
+      <p align="start">Development Tools
+      <a href="https://skillicons.dev" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=anaconda,postman,git,github,stackoverflow" />
       </a>
     </p>
     <li>
@@ -45,9 +54,18 @@ As a dedicated student, I am constantly exploring new technologies and framework
      
    <li>
     <hr>
-      <p align="start">
+      <p align="start"> Database and Data Management
       <a href="https://skillicons.dev" style="text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=neovim,vscode,sublime,linux,ubuntu,anaconda,mongodb,mysql,sqlite,postman,stackoverflow,blender,godot,figma,ai,ps,github" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite stackoverflow" />
+      </a>
+    </p>
+    <li>
+     
+   <li>
+    <hr>
+      <p align="start"> Design and Game Dev
+      <a href="https://skillicons.dev" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=blender,godot,figma,ai,ps" />
       </a>
     </p>
     <li>
@@ -104,7 +122,7 @@ Feel free to explore these projects and provide feedback or suggestions for impr
 
 ## 📫 Connect with Me
 
-<a href="https://wa.me/51320264" target="_blank" style="text-decoration:none">
+<a href="https://wa.me/51320264" target="_blank" style="text-decoration:none;">
   <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="32" height="32" />
 </a>
 <a style="text-decoration:none" href="https://t.me/51320264" target="_blank">
