@@ -25,7 +25,7 @@ As a dedicated student, I am constantly exploring new technologies and framework
 
 <details>
  <summary>🔧 Tools</summary>
- 
+<hr>
   <ul>
     <li>
       <strong>Operating Systems</strong>
